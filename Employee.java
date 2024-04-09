@@ -1,10 +1,37 @@
 
 package employee;
-
-/**
- *
- * @author OcampoG4446
- */
+/****************************************************
+ * Programmer: Geneiva Ocampo
+ * 
+ * Course CSCI 1471
+ * 
+ * Date 04/10/2024
+ * 
+ * Assignment: Homework #8: Problem 1
+ * 
+ * Environment Java with Netbeans
+ * 
+ * Files Included: Employee & Employee Test
+ * 
+ * Purpose: Add my name to program
+ * 
+ * Input: Employee e3 = new Employee( "Geneiva", "Ocampo" );
+ * 
+ * Preconditions/ Assumptions: Must use same methods
+ * 
+ * Equations: N/A
+ * 
+ * Output: Employee constructor: Geneiva Ocampo; count = 3
+ * 
+ * Postconditions/Assumptions: Methods stay the same
+ * 
+ * Contraints:
+ * 
+ * Algorithm: 
+ * Prompt User to enter a number 
+ * Calculate number to match letter grade
+ * Output letter grade
+ ****************************************************/
 public class Employee
 {
 private String firstName;
